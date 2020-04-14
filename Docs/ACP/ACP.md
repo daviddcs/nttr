@@ -6,6 +6,12 @@
 ## ACP MAP 
 ### [NTTR Combat Flite Overlay Download](/NavAids/NTTR_LFE_CF_BASE.cf)
 
+## Tanker Operations
+All AAR tracks are flown at ,500FT.  Exercise caution when rejoining with a tanker operating within an MRR.  IMC rejoins must be performed under radar control.  
+
+## Killboxes
+No killbozes in effect.
+
 ## MRR (Minimum Risk Routes)
 All MRR transits are to be flown at 1 000FT intervals.  
 Altitude transitions within MRR is prohibited.  
@@ -24,14 +30,6 @@ Types:
 CENTREGRID: CLIMB IN LEFTHAND PATTERN AROUND CENTER POINT.  
 CENTREGRID: DECEND IN RIGHTHAND PATTERN AROUND CENTER POINT.  
 CORRIDORELEV: AS PER MAP ANNOTAION, NORMALLY "UP/DOWN"**  
-
-
-
-## Tanker Operations
-All AAR tracks are flown at ,500FT.  Exercise caution when rejoining with a tanker operating within an MRR.  IMC rejoins must be performed under radar control.  
-
-## Killboxes
-No killbozes in effect.
 
 
 
