@@ -1,10 +1,10 @@
 # Airspace Control Plan
 
 ## FLIGHT INFORMATION PUBLICATION
-### [FLIP](/NavAids/476vFG_FLIP_21JAN19.pdf) 
+### [FLIP Download](/NavAids/476vFG_FLIP_21JAN19.pdf) 
 
 ## ACP MAP 
-### [NTTR Combat Flite Overlay](/NavAids/NTTR_LFE_CF_BASE.cf)
+### [NTTR Combat Flite Overlay Download](/NavAids/NTTR_LFE_CF_BASE.cf)
 
 ## MRR (Minimum Risk Routes)
 All MRR transits are to be flown at 1 000FT intervals.  
