@@ -1,7 +1,7 @@
 # Airspace Control Plan
 
 ## ACP MAP 
-### [NSST Combat Flite Overlay](/NavAids/NSST_CF.cf)
+### [NTTR Combat Flite Overlay](/NavAids/NTTR_LFE_CF_BASE.cf)
 
 ## MRR (Minimum Risk Routes)
 All MRR transits are to be flown at 1 000FT intervals.  
@@ -22,20 +22,13 @@ CENTREGRID: CLIMB IN LEFTHAND PATTERN AROUND CENTER POINT.
 CENTREGRID: DECEND IN RIGHTHAND PATTERN AROUND CENTER POINT.  
 CORRIDORELEV: AS PER MAP ANNOTAION, NORMALLY "UP/DOWN"**  
 
-## CSG7 - CCA
-Carrier Strike Group 7 Carrier Control Area extends 40 nm from CSG7, as the location is dynamic be prepared to respond to auth. req. and possible escorts if transiting the CCA.
 
 
 ## Tanker Operations
 All AAR tracks are flown at ,500FT.  Exercise caution when rejoining with a tanker operating within an MRR.  IMC rejoins must be performed under radar control.  
 
 ## Killboxes
-Two set's of killboxes are currently in effect.  
-- Letter Number Box (X9)  
-- Letter Letter Box (XX)
-
-X9 boxes measure 20x18nm (HxW) and are available in the navigation database with a centre-grid reference.  
-XX boxes measure 30x27nm (HxW) these are available on the planning map as an overlay.  
+No killbozes in effect.
 
 
 ## CLEAR TEXT NAV POINTS (MIN.SEC ONLY)
@@ -44,7 +37,7 @@ XX boxes measure 30x27nm (HxW) these are available on the planning map as an ove
 
 
 ## FLIP
-#### [DCSW FLIP Volume 2 Persian Gulf Region](https://www.dropbox.com/s/sp91zf63rx0esao/FLIP_GULFR2_EC1.pdf?dl=0)
+#### 
 
 ---
 #### [BACK TO INDEX](https://daviddcs.github.io/nttr/) 
