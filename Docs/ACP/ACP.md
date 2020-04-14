@@ -1,7 +1,7 @@
 # Airspace Control Plan
 
 ## FLIGHT INFORMATION PUBLICATION
-#### [FLIP](/NavAids/476vFG_FLIP_21JAN19.pdf) 
+### [FLIP](/NavAids/476vFG_FLIP_21JAN19.pdf) 
 
 ## ACP MAP 
 ### [NTTR Combat Flite Overlay](/NavAids/NTTR_LFE_CF_BASE.cf)
