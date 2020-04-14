@@ -1,5 +1,8 @@
 # Airspace Control Plan
 
+## FLIGHT INFORMATION PUBLICATION
+#### [FLIP](/NavAids/476vFG_FLIP_21JAN19.pdf) 
+
 ## ACP MAP 
 ### [NTTR Combat Flite Overlay](/NavAids/NTTR_LFE_CF_BASE.cf)
 
@@ -31,8 +34,6 @@ All AAR tracks are flown at ,500FT.  Exercise caution when rejoining with a tank
 No killbozes in effect.
 
 
-## FLIP
-#### [FLIP](/NavAids/476vFG_FLIP_21JAN19.pdf) 
 
 ---
 #### [BACK TO INDEX](https://daviddcs.github.io/nttr/) 
