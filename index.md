@@ -6,7 +6,7 @@
 ## EVENT RESOURCES
 ####  [SCENARIO / TIMELINE](/Docs/scenario.md) | [AIRSPACE CONTROL PLAN](/Docs/ACP/ACP.md) | [INTELLIGENCE UPDATES] | [RED OOB](/Docs/OOB/OOB_RED.md) | [BLUE OOB](/Docs/OOBBLUE/BLUE_OOB.md)
 ---
-### SCENARIO #1 COMBAT OPERATIONS
+### SCENARIO #1 LFE OPERATIONS
 ####  [ACO/ATO](/Docs/ATO/ATO.md) | [SPINS](Docs/SPINS/SPINS.md) | [TARGET LIST](/Docs/targets/maintgtlist.md) | [NOTAM](/Docs/NOTAM.md)  
 
 
@@ -22,7 +22,7 @@
 
 
 ---
-## NSST MSN INFO
+## NTTR MSN INFO
 ####  [BACKGROUND](/Docs/background.md)  
 ####  [HOWTO](/Docs/howto.md)  
 ####  [LOG](/Docs/log.md)  
