@@ -18,9 +18,6 @@ leading zero's omitted.
 #### HOSTILE AIRFIELD DESIGNATIONS    
 
 
-#### 312 FLIP  
-
-
 #### LOCATIONS
 
 
