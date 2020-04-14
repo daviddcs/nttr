@@ -31,11 +31,6 @@ All AAR tracks are flown at ,500FT.  Exercise caution when rejoining with a tank
 No killbozes in effect.
 
 
-## CLEAR TEXT NAV POINTS (MIN.SEC ONLY)
-#### [NAV P](/NavAids/nav_points_clear.md) 
-
-
-
 ## FLIP
 #### [FLIP](/NavAids/476vFG_FLIP_21JAN19.pdf) 
 
