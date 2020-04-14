@@ -1,6 +1,6 @@
 #### ATO
 
-The ATO in NSST is a selection of taskings available for you to "play" but also contains information about supporting assets.
+The ATO in NTTR is a selection of taskings available for you to "play" but also contains information about supporting assets.
 
 
 #### ATO Index
@@ -28,4 +28,4 @@ Plan your mission using Navigation aids, Radio presets, and Target List (if appl
 Read NOTAM's  
 Download the mission file, and host MP server.
 
-#### [BACK TO INDEX](https://daviddcs.github.io/nsst/) 
+#### [BACK TO INDEX](https://daviddcs.github.io/nttr/) 

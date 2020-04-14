@@ -15,4 +15,4 @@ Some A/C are bound to have incorrect presets sooner or later, please notify if s
 ## [MI-8 PRESETS](/Radios/MI8_PRESETS.PNG)
 
 
-#### [BACK TO INDEX](https://daviddcs.github.io/nsst/) 
+#### [BACK TO INDEX](https://daviddcs.github.io/nttr/) 

@@ -1,8 +1,8 @@
 # SPINS
 
-## CURRENT BULLSEYE IS MADISON  
-**N 26 51 00  
-E 056 39 00**  
+## CURRENT BULLSEYE IS XX  
+**N XX  
+ E **  
 
 ### RAMROD
 
@@ -37,11 +37,5 @@ E 056 39 00**
 | FEET WET | OHIO |
 | FEET DRY | PHILIPPINES |
 
-## CSG7 ADMIN
-Current Loc: On patrol between IVO BISMARK navpoint.  
-Airboss script: Active.  
-Start Departure/Recovery cycles via F10 menu.  
-AMPN: Remember to taxy clear before initiating departure cycle, otherwise you might fall off deck. 
-AMPN: Note that Airboss does not work in "single-player". Host private MP Session to get Airboss working.  
 
-#### [BACK TO INDEX](https://daviddcs.github.io/nsst/) 
+#### [BACK TO INDEX](https://daviddcs.github.io/nttr/) 
