@@ -4,7 +4,7 @@
 
 Unit | Location | Type | Remarks
 ---- | -------- | ---- | ------- |
-100th Tactical Fighter Squadron (TFS) | Shiraz H24 | F-14A | 12 Aircraft
+100th Aggressor Squadron (AS100) | TPH H10 | M-2000C | 12 Aircraft
 
 
 
@@ -17,7 +17,7 @@ Air Defence (EWR, SAM and AAA) are doctrinally operating in the following way: <
 
 Unit | Location | Type | Remarks
 ---- | -------- | ---- | ------- |
-72nd Air Defence Brigade (72nd ADB) | KERMAN | Area Defence | NSTR
+72nd Air Defence Brigade (72nd ADB) | EC EAST | Area Defence | NSTR
 
 
 ## Ground
@@ -28,7 +28,7 @@ Ground Forces are doctrinally operating in the following way: <br>
 
 Unit | Location | Type | Remarks |
 ---- | -------- | ---- | ------- |  
-[133rd ARMORED REGIMENT](/OPUF-Brief/Docs/Enemy/133RD_MBT_REGT.html) | LAR | T-72 | NSTR |
+133rd ARMORED REGIMENT | nil | T-72 | NSTR |
 
 
 
