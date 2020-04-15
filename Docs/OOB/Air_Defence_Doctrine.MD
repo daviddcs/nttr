@@ -5,32 +5,24 @@ The Air Defences are operating in accordance with the following Doctrine:
 
 The REDFOR have a well developed Integrated Air Defence System (IADS).
 
-The IADS consiste of 2 primary elements. Where one is the A-A fighters located at primary airbases, and the second is the Surface to Air missile's.
+The IADS consist of 2 primary elements. Where one is the A-A fighters located at primary airbases, and the second is the Surface to Air missile's.
 
 IADS consists of Early Warning Radar's (EWR's) that support both elements with early warning.
 
-Around the most critical infrastructure, such as important airbases, a Air Defence Brigade consisting of SA-10 and SA-11 is eastablished to provide necessary area defence to 
+Around the most critical infrastructure, such as important airbases, a Air Defence Brigade consisting of SA-10 and SA-11 is deployed to provide necessary area defence to 
 protect other parts of the IADS, especially the A-A fighters.
 
-Around key cities or military installations, various fixed sites of larger SAM's such as SA-2, SA-3 and SA-6 is establised.  All static sites is assessed to be protected by
-smaller SAM's to prevent low-flying aircraft from attacking the larger SAM's.
+Around key cities or military installations, various fixed sites of larger SAM's such as SA-2 and HAWK is deployed.  All static sites is assessed to be protected by smaller SAM's to prevent low-flying aircraft from attacking the larger SAM's.
 
-For supporting the ground forces, the Iranian primarily uses its Air Defence Battalions of SA-19, SA-13. These battalions are attached to motorized and mechanized infantry regiments.
-The Air Defence Revolutionary Guard Battalion's with SA-15 and SA-8 are normally attached to the armored regiments, as these are seen as the most important element of the 
-Iranian ground forces.
-
-
+For supporting the ground forces, the REDFOR primarily uses its Air Defence Battalions of SA-19, SA-13.
 
 
 
 ### Tactics
-The Iranian SAM's are reported to use various modes of operandi in order to increase it's lethality and make it harder for the coalition to operate:
+The REDFOR SAM's are reported to use various modes of operandi in order to increase it's lethality and make it harder for the coalition to operate:
 - One tactic is to have smaller SAM's shut off, and only turned on when a potential target is in the weapon engagement zone of the SAM. 
 - The entire network is likely not active at any given time, as the Iranians want to both hide and prevent Anti Radiation Missiles (ARM's) to be able to neutralize their radars.
-- The Iranians mobile SAM's is also known for shooting, and then moving to a new location to prevent beeing targeted by SEAD/DEAD forces.
-
-
-
+- The REDFOR mobile SAM's is also known for shooting, and then moving to a new location to prevent being targeted by SEAD/DEAD forces.
 
 
 
@@ -90,8 +82,8 @@ HAWK Battalion  | Battalion  |          | 1x SR AN/MPQ 50  , 1x TR AN/MPQ 46,   
 
 Unit | Size | Sub-units | Equipment | Supports |
 ---- | ---- | --------- | --------- | -------- | 
-Air Defence Battalion | Battalion | 2x Air Defence Batterys | 4x SA-19, 2x SA-13, 12x Manpads | Supporting a maneuver Regiment (Mechanized or Motorized)  | 
-Air Defence Battery   | Battery   | 2x Air Defence Platoons | 2x SA-19, 2x SA-13, 6x Manpads  | Supporting a maneuver Battalion (Mechanized or Motorized) |
+Air Defence Battalion | Battalion | 2x Air Defence Batterys | 4x SA-19, 2x SA-13, 12x Manpads | Supporting a manoeuvre Regiment (Mechanized or Motorized)  | 
+Air Defence Battery   | Battery   | 2x Air Defence Platoons | 2x SA-19, 2x SA-13, 6x Manpads  | Supporting a manoeuvre Battalion (Mechanized or Motorized) |
 Air Defence Platoon   | Platoon   |                         | 1x SA-19, 1x SA-13, 3x Manpads  | Supporting static sites   |                                     |
 Air Defence Revolutionary Guard Battalion | Battalion | 1x HQ (Radar) 2x AD Revolutionary Guard Batterys | 1x Dog Ear Radar, 4x SA-15, 4x SA-8 | Supporting a Armored Regiment |
 
@@ -102,10 +94,7 @@ Air Defence Revolutionary Guard Battalion | Battalion | 1x HQ (Radar) 2x AD Revo
 Unit | Size | Sub-units | Equipment | Supports |
 ---- | ---- | --------- | --------- | -------- |
 Home Guard Air Defence Battery   | Battery   |  | 1-2x ZSU-23/4 or ZU-23,1-2 SA-9 or SA-13   | Protecting local infrastructure |
-Home Guard Air Defence Battalion | Battalion |  | 1-2x Rapier systems, 1-2 ZU-23 or ZSU 23/4 | Protecting local infrastucture |
-
-
-
+Home Guard Air Defence Battalion | Battalion |  | 1-2x Rapier systems, 1-2 ZU-23 or ZSU 23/4 | Protecting local infrastructure |
 
 
 <br>
