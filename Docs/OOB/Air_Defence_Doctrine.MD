@@ -84,7 +84,7 @@ Unit | Size | Sub-units | Equipment | Supports |
 ---- | ---- | --------- | --------- | -------- | 
 Air Defence Battalion | Battalion | 2x Air Defence Batterys | 4x SA-19, 2x SA-13, 12x Manpads | Supporting a manoeuvre Regiment (Mechanized or Motorized)  | 
 Air Defence Battery   | Battery   | 2x Air Defence Platoons | 2x SA-19, 2x SA-13, 6x Manpads  | Supporting a manoeuvre Battalion (Mechanized or Motorized) |
-Air Defence Platoon   | Platoon   |                         | 1x SA-19, 1x SA-13, 3x Manpads  | Supporting static sites   |                                     |
+Air Defence Platoon   | Platoon   |                         | 1x SA-19, 1x SA-13, 3x Manpads  | Supporting static sites   |
 Air Defence Revolutionary Guard Battalion | Battalion | 1x HQ (Radar) 2x AD Revolutionary Guard Batterys | 1x Dog Ear Radar, 4x SA-15, 4x SA-8 | Supporting a Armored Regiment |
 
 
