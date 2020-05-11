@@ -19,5 +19,8 @@ PER 132nd Virtual Wing EVENT ATO
  | ARCO 4-1 | 38Y | 118,750 WHITE 8 | BASKET
  | ARCO 6-1 | 39Y | 120,500 WHITE 9 | BASKET
 
+Tankers are spawned from McCarran on demand via F10 (ingame DCS).
+Once they have established at Echo Bay, they can be directed to the other AR tracks up north.  
+Intent here is positioning controlled by Senior Director to support planned requests and or on-demand requests.  
 
 #### [BACK TO INDEX](https://daviddcs.github.io/nttr/) 
