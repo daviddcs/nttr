@@ -17,6 +17,7 @@ PER 132nd Virtual Wing EVENT ATO
  | - | - | - | - |
  | TEXACO 3-1 | 37Y | 117,250 WHITE 6 | BOOM
  | ARCO 4-1 | 38Y | 118,750 WHITE 8 | BASKET
+ | ARCO 6-1 | 39Y | 120,500 WHITE 9 | BASKET
 
 
 #### [BACK TO INDEX](https://daviddcs.github.io/nttr/) 
