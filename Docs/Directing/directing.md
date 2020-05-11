@@ -5,11 +5,11 @@
 
 Work in progress.  
 
-  The xxx can be repositioned using ingame F10 menus.
+  The E3 can be activated and repositioned using ingame F10 menus.
 
 #### LOCATIONS
-  1. Defensive (ref. .cf file /nav aids)
-  2. Offensive East (ref. .cf file /nav aids)
+  1. Defensive AEW_ALPHA TRACK (ref. .cf file /nav aids)
+  2. Offensive AEW_BRAVO TRACK (ref. .cf file /nav aids)
 
 
 ## JSON LotATC Overlays

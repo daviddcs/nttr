@@ -1,8 +1,8 @@
 # SPINS
 
-## CURRENT BULLSEYE IS XX  
-**N XX  
- E **  
+## CURRENT BULLSEYE IS LAKE  
+**N 37 16.500  
+ W 115 48.000**  
 
 ### RAMROD
 
