@@ -10,7 +10,7 @@
 All AAR tracks are flown at ,500FT.  Exercise caution when rejoining with a tanker operating within an MRR.  IMC rejoins must be performed under radar control.  
 
 ## Killboxes
-No killbozes in effect.
+No killboxes in effect.
 
 ## MRR (Minimum Risk Routes)
 All MRR transits are to be flown at 1 000FT intervals.  
