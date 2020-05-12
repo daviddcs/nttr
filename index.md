@@ -4,10 +4,10 @@
 ---
 
 ## EVENT RESOURCES
-####  [SCENARIO / TIMELINE](/Docs/scenario.md) | [AIRSPACE CONTROL PLAN](/Docs/ACP/ACP.md) | [INTELLIGENCE UPDATES] | [RED OOB](/Docs/OOB/OOB_RED.md) | [BLUE OOB](/Docs/OOBBLUE/BLUE_OOB.md)
+####  [SCENARIO / TIMELINE](/Docs/scenario.md) | [AIRSPACE CONTROL PLAN](/Docs/ACP/ACP.md) | [RED OOB](/Docs/OOB/OOB_RED.md) | [BLUE OOB](/Docs/OOBBLUE/BLUE_OOB.md)
 ---
 ### SCENARIO #1 LFE OPERATIONS
-####  [ACO/ATO](/Docs/ATO/ATO.md) | [SPINS](Docs/SPINS/SPINS.md) | [TARGET LIST](/Docs/targets/maintgtlist.md) | [NOTAM](/Docs/NOTAM.md)  
+####  [ACO/ATO](/Docs/ATO/ATO.md) | [SPINS](Docs/SPINS/SPINS.md) | [NOTAM](/Docs/NOTAM.md) | [TARGET LIST](/Docs/targets/maintgtlist.md)  
 
 
 ---
@@ -17,7 +17,7 @@
 ---
 ## Mission File
 
-####  [NSST_C20 LOCAL TIME 0720](/Docs/NSST_C20_RELEASE_0720.miz)
+####  [NTTR LFE XXX LOCAL TIME XXXX](/Docs/XXX.miz)
 
 
 
