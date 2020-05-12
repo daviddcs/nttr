@@ -7,7 +7,7 @@
 ####  [SCENARIO / TIMELINE](/Docs/scenario.md) | [AIRSPACE CONTROL PLAN](/Docs/ACP/ACP.md) | [RED OOB](/Docs/OOB/OOB_RED.md) | [BLUE OOB](/Docs/OOBBLUE/BLUE_OOB.md)
 ---
 ### SCENARIO #1 LFE OPERATIONS
-####  [ACO/ATO](/Docs/ATO/ATO.md) | [SPINS](Docs/SPINS/SPINS.md) | [NOTAM](/Docs/NOTAM.md) | [TARGET LIST](/Docs/targets/maintgtlist.md)  
+####  [ACO / ATO](/Docs/ATO/ATO.md) | [SPINS / NOTAM](Docs/SPINS/SPINS.md) | [TARGET LIST](/Docs/targets/maintgtlist.md)  
 
 
 ---
